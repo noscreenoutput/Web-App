@@ -1,0 +1,8 @@
+{
+  "name": "Remix EguiWasm Launcher",
+  "description": "A lightweight Android launcher for WASM egui applications featuring local file management and WebView-based rendering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
